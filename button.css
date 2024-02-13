@@ -1,0 +1,51 @@
+.button101 {
+  flex: 1;
+  position: relative;
+  line-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+}
+.statedefault {
+  top: 20px;
+  background-color: var(--color-mediumblue);
+}
+.statedefault,
+.statehover,
+.statepressed {
+  position: absolute;
+  left: 20px;
+  border-radius: var(--br-mini);
+  box-sizing: border-box;
+  width: 96px;
+  height: 45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-xl);
+}
+.statepressed {
+  top: 85px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #6200ee;
+}
+.statehover {
+  top: 150px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #8e53e2;
+  border: 2px solid #b495de;
+  color: var(--color-black);
+}
+.button100 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  height: 215px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

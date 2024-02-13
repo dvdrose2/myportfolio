@@ -1,0 +1,336 @@
+.frame-child51,
+.frame-child52,
+.frame-child53,
+.frame-child54,
+.frame-child55 {
+  width: 6.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 55px;
+  left: 10.9px;
+  height: 6px;
+  object-fit: cover;
+  z-index: 0;
+}
+.frame-child52,
+.frame-child53,
+.frame-child54,
+.frame-child55 {
+  width: 5.7px;
+  left: 55.3px;
+  height: 5px;
+  z-index: 1;
+}
+.frame-child53,
+.frame-child54,
+.frame-child55 {
+  width: 4.7px;
+  top: 42.5px;
+  left: 2.7px;
+  height: 5.7px;
+  z-index: 2;
+}
+.frame-child54,
+.frame-child55 {
+  width: 6.7px;
+  top: 41.7px;
+  left: 62.3px;
+  height: 6.6px;
+  z-index: 3;
+}
+.frame-child55 {
+  width: 7px;
+  top: 63.6px;
+  left: 32px;
+  height: 6.5px;
+  z-index: 4;
+}
+.frame-child56,
+.frame-child57,
+.frame-child58,
+.frame-child59,
+.htmlicon-14 {
+  width: 5.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: 24.1px;
+  left: 63.6px;
+  height: 6.8px;
+  object-fit: cover;
+  z-index: 5;
+}
+.frame-child57,
+.frame-child58,
+.frame-child59,
+.htmlicon-14 {
+  top: 25.5px;
+  left: 1.9px;
+  height: 5.7px;
+  z-index: 6;
+}
+.frame-child57,
+.frame-child58,
+.frame-child59 {
+  width: 6.3px;
+  top: 9.7px;
+  left: 9.9px;
+  height: 5.8px;
+  z-index: 7;
+}
+.frame-child58,
+.frame-child59 {
+  width: 6.4px;
+  top: 10.9px;
+  left: 54.9px;
+  height: 5.1px;
+  object-fit: contain;
+  z-index: 8;
+}
+.frame-child59 {
+  width: 6.7px;
+  top: 0;
+  left: 32.1px;
+  height: 7.5px;
+  z-index: 9;
+}
+.smallportfoliologo-1-icon5 {
+  width: 73px;
+  position: relative;
+  height: 73px;
+  object-fit: cover;
+  z-index: 10;
+}
+.button77,
+.rectangle-parent5 {
+  position: relative;
+  display: flex;
+}
+.rectangle-parent5 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.button77 {
+  flex: 1;
+  line-height: 100px;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+}
+.button76,
+.button78,
+.button80 {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  color: inherit;
+}
+.button76 {
+  width: 96px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  height: 45px;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+}
+.button76:hover {
+  background-color: #a063f6;
+}
+.button78,
+.button80 {
+  cursor: pointer;
+}
+.button78 {
+  width: 111px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  height: 45px;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+}
+.button78:hover {
+  background-color: #9f5efa;
+}
+.button80 {
+  width: 132px;
+}
+.button80:hover {
+  background-color: #a264fa;
+}
+.button80,
+.button82,
+.button84 {
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  height: 45px;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+}
+.button82 {
+  text-decoration: none;
+  width: 113px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  cursor: pointer;
+  color: inherit;
+}
+.button82:hover {
+  background-color: #9c62ef;
+}
+.button84 {
+  width: 140px;
+}
+.button84:hover {
+  background-color: #9654f2;
+}
+.button-parent7,
+.button84,
+.button86 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button86 {
+  text-decoration: none;
+  width: 117px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  height: 45px;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  color: inherit;
+}
+.button86:hover {
+  background-color: #9b5df0;
+}
+.button-parent7 {
+  align-items: flex-start;
+  gap: var(--gap-26xl);
+}
+.frame-parent9 {
+  align-self: stretch;
+  height: 73px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-21xl);
+  box-sizing: border-box;
+}
+.my-certificates {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 626px;
+  height: 99px;
+}
+.my-certificates-wrapper {
+  width: 626px;
+  position: relative;
+  height: 99px;
+}
+.certificates-inner {
+  width: 1502px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-45xl);
+  color: var(--color-mediumblue);
+}
+.figmacourse24-1-icon,
+.frame-child60,
+.frame-child61 {
+  width: 551px;
+  position: relative;
+  height: 372px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-child60,
+.frame-child61 {
+  width: 533px;
+}
+.frame-child61 {
+  height: 371px;
+}
+.frame-child62,
+.frame-child64,
+.frame-child65,
+.frame-child66 {
+  width: 518px;
+  position: relative;
+  height: 361px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-child64,
+.frame-child65,
+.frame-child66 {
+  width: 517px;
+  height: 360px;
+}
+.frame-child65,
+.frame-child66 {
+  width: 525px;
+  height: 366px;
+}
+.frame-child66 {
+  width: 516px;
+  height: 360px;
+}
+.figmacourse24-1-parent {
+  position: absolute;
+  top: 96px;
+  left: 195px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 27px;
+}
+.certificates-child {
+  width: 941px;
+  position: relative;
+  background-color: var(--color-gray-500);
+  height: 658px;
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+.certificates,
+.certificates-item {
+  width: 1346px;
+  position: relative;
+  background-color: var(--color-black);
+  height: 149px;
+}
+.certificates {
+  width: 100%;
+  background-color: var(--color-gray-500);
+  height: 1239px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 28px var(--padding-3xs);
+  box-sizing: border-box;
+  gap: 75px;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

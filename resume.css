@@ -1,0 +1,338 @@
+.frame-child1,
+.frame-child2,
+.frame-child3,
+.frame-child4,
+.rectangle-icon {
+  width: 6.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 55px;
+  left: 10.9px;
+  height: 6px;
+  object-fit: cover;
+  z-index: 0;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3,
+.frame-child4 {
+  width: 5.7px;
+  left: 55.3px;
+  height: 5px;
+  z-index: 1;
+}
+.frame-child2,
+.frame-child3,
+.frame-child4 {
+  width: 4.7px;
+  top: 42.5px;
+  left: 2.7px;
+  height: 5.7px;
+  z-index: 2;
+}
+.frame-child3,
+.frame-child4 {
+  width: 6.7px;
+  top: 41.7px;
+  left: 62.3px;
+  height: 6.6px;
+  z-index: 3;
+}
+.frame-child4 {
+  width: 7px;
+  top: 63.6px;
+  left: 32px;
+  height: 6.5px;
+  z-index: 4;
+}
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.frame-icon,
+.htmlicon-1 {
+  width: 5.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: 24.1px;
+  left: 63.6px;
+  height: 6.8px;
+  object-fit: cover;
+  z-index: 5;
+}
+.frame-child6,
+.frame-child7,
+.frame-icon,
+.htmlicon-1 {
+  top: 25.5px;
+  left: 1.9px;
+  height: 5.7px;
+  z-index: 6;
+}
+.frame-child6,
+.frame-child7,
+.frame-icon {
+  width: 6.3px;
+  top: 9.7px;
+  left: 9.9px;
+  height: 5.8px;
+  z-index: 7;
+}
+.frame-child7,
+.frame-icon {
+  width: 6.4px;
+  top: 10.9px;
+  left: 54.9px;
+  height: 5.1px;
+  object-fit: contain;
+  z-index: 8;
+}
+.frame-icon {
+  width: 6.7px;
+  top: 0;
+  left: 32.1px;
+  height: 7.5px;
+  z-index: 9;
+}
+.smallportfoliologo-1-icon1 {
+  width: 73px;
+  position: relative;
+  height: 73px;
+  object-fit: cover;
+  z-index: 10;
+}
+.button13,
+.rectangle-parent {
+  position: relative;
+  display: flex;
+}
+.rectangle-parent {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.button13 {
+  flex: 1;
+  line-height: 100px;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+}
+.button12 {
+  text-decoration: none;
+  width: 96px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  height: 45px;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+  color: inherit;
+}
+.button12:hover {
+  background-color: #aa73f8;
+}
+.button12,
+.button14,
+.button16 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button14 {
+  width: 111px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  height: 45px;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+}
+.button14:hover {
+  background-color: var(--color-mediumpurple-100);
+}
+.button16 {
+  width: 132px;
+  cursor: pointer;
+}
+.button16:hover {
+  background-color: #af79fb;
+}
+.button16,
+.button18,
+.button20 {
+  text-decoration: none;
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  height: 45px;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+  color: inherit;
+}
+.button18 {
+  width: 113px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.button18:hover {
+  background-color: #a872f4;
+}
+.button20 {
+  width: 140px;
+}
+.button20:hover {
+  background-color: #a772f0;
+}
+.button-group,
+.button20,
+.button22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.button22 {
+  text-decoration: none;
+  width: 117px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  height: 45px;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+  color: inherit;
+}
+.button22:hover {
+  background-color: #9f64f2;
+}
+.button-group {
+  align-items: flex-start;
+  gap: var(--gap-26xl);
+}
+.frame-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-21xl);
+}
+.resume-inner {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 1512px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.resume1 {
+  position: relative;
+  line-height: 100px;
+}
+.resume-wrapper {
+  position: absolute;
+  top: 239px;
+  left: 82px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  font-size: 96px;
+  color: var(--color-mediumblue);
+}
+.professional-summary {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+  color: var(--color-mediumblue);
+}
+.love-working-with {
+  font-weight: 500;
+}
+.love-working-with-code-and-fro {
+  margin: 0;
+}
+.professional-experience1 {
+  font-size: var(--font-size-21xl);
+  color: var(--color-mediumblue);
+}
+.professional-summary-love-container1 {
+  width: 100%;
+}
+.professional-summary-love-container {
+  width: 1244px;
+  position: relative;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  height: 3628px;
+  flex-shrink: 0;
+}
+.professional-summary-love-work-wrapper {
+  height: 3559px;
+  overflow-y: auto;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-div {
+  width: 1835px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  height: 1127px;
+  flex-shrink: 0;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 438px;
+  left: 83px;
+  width: 1345px;
+  height: 1931px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+}
+.resume {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-500);
+  height: 4491px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+p {
+  text-align: left;  /* Align text to the right */
+  margin: 60px;      /* Apply a margin of 30 pixels on all sides */
+}
+
+/* Or, for a margin only on the right side: */
+p {
+  text-align: left;
+  margin-right: 60px;  /* Apply a margin of 30 pixels only to the right side */
+}
+h2 {
+  color: purple;
+}
+h4 {
+  color: purple;
+}
